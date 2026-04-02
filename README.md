@@ -12,6 +12,6 @@ A demo of determining whether the container app (or a specific feature in the ap
 4. When the extension needs to find whether the app (or the feature) is running or not, try to open the same file and get the lock. If lock succeeded, then the container app is dead or the feature is not running. Otherwise, the feature is running!
 
 
-For more details, please refer to my blog [SwiftUI: Is My Container App (Or App's xxx Feature) Running? Asked By My Keyboard Extension.]()
+For more details, please refer to my blog [SwiftUI: Is My Container App (Or App's xxx Feature) Running? Asked By My Keyboard Extension.](https://medium.com/@itsuki.enjoy/swiftui-is-my-container-app-or-apps-xxx-feature-running-asked-by-my-keyboard-extension-d2644fed2820)
 
 ![](./demo.gif)
